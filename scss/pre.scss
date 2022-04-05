@@ -10,6 +10,8 @@
 @import '../../imtpn/scss/abstracts/colors';
 $primary: $imt-telecom_paris-primary;
 $secondary: $imt-telecom_paris-secondary;
+// A slight darker gray for more contrast with white.
+$imt-lightgray: #aba9a1;
 
 @import "../../imtpn/scss/pre";
 
